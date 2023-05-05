@@ -1,8 +1,8 @@
 
-  # dddddd 
+  # My first local app. 
   ## Description 
   
-  d
+  It is a readme generator. It will ask me questions and depending on my answers it will create a readme file
   
   ## Table of Contents
   
@@ -12,15 +12,15 @@
   - [License](#licenses)
   
   ## Installation
-  d
+  other than running npm i there is no other installation.
   ## Usage
-  d
+  it is great for my future readmes I feel I will use this as a tool from now on.
   ## Contributors
-  d
+  just me :)
   ## Test
-  d
+  no
   ## Licenses
-  No license
-   chosen, If you do not know what license should you use please refere to this link [https://choosealicense.com/](https://choosealicense.com/) 
+  MIT
+  ![MIT](https://img.shields.io/badge/licence-MIT-green)  
  
   
